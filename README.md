@@ -20,6 +20,25 @@ Computer Science student at AMAOed, lived in Aarhus,Denmark transitioning into t
 
 > Dynamic work: **Sales Inventory App** (React + Express + PostgreSQL). Deployment paused while I harden auth, input validation, rate-limiting, and tests; runs locally during refinement.
 
+# 🧠 Online Python Tutor — Python 3.12 Compatible Fork
+
+This fork updates the classic **Online Python Tutor** project for modern Python versions and removes deprecated or unsafe code.
+
+## 🔧 What's New
+- ✅ Python 3.12 compatibility (`importlib` instead of deprecated `imp`)
+- ✅ Fixed regex escape warnings (using raw strings)
+- ✅ Added redirect from `/` → `/visualize.html`
+- ✅ Removed exposed Google API keys
+- ✅ Tested on Windows 10 with Python 3.12 (Bottle server runs fine)
+
+## 💡 About
+Originally developed by **Philip Guo** and maintained at [sineagles/OnlinePythonTutor](https://github.com/sineagles/OnlinePythonTutor).  
+This fork is maintained by [Grace Duquiza](https://github.com/GraceDuquiza).
+
+## 🚀 Run Locally
+```bash
+python bottle_server.py
+
 ---
 
 ### ⚙️ Skills
