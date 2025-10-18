@@ -39,6 +39,14 @@ This fork is maintained by [Grace Duquiza](https://github.com/GraceDuquiza).
 ```bash
 python bottle_server.py
 
+## 🖥️ Preview
+
+<p align="center">
+  <img src="pythontutor example.png" alt="Online Python Tutor Screenshot" width="700"/>
+</p>
+
+*Figure: Online Python Tutor (Python 3.12 version) running locally on Windows 10*
+
 ---
 
 ### ⚙️ Skills
