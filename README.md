@@ -1,79 +1,88 @@
+# 👋 Hi, I'm Grace Duquiza
 
-# Hi, I'm Grace 👋
-
-Computer Science student at AMAOed, lived in Aarhus,Denmark transitioning into tech after 8+ years in sales, customer service, and intercultural work (PH • UAE • DK • NO). I build **static-first**, privacy-friendly projects and I’m developing a **dynamic Sales Inventory app** (React + Express + PostgreSQL) with a safety-first backend.
-
-### 🔗 Links
-- **Portfolio:** https://graceduquiza.github.io  
-- **LinkedIn:** https://www.linkedin.com/in/grace-duquiza-olesen-9b3005137  
-- **Email:** duquizaolesen@gmail.com
+💻 **Computer Science Student (AMAOEd)** — based in **Aarhus, Denmark**.  
+After 8+ years in sales and customer service (PH • UAE • DK • NO), I’m transitioning into tech, focusing on **software development** and **AI-powered applications**.
 
 ---
 
-### 🛠️ Projects (live)
-- 🧩 **Sudoku Learn (Vanilla JS)** — mobile-friendly Sudoku with notes, undo/redo, hints, timer.  
-  Live: https://graceduquiza.github.io/SudokuGame/
-- 🇩🇰 **Danish Vocab Trainer** — flashcards + quizzes for Danish vocabulary.  
-  Live: https://graceduquiza.github.io/Danish_Vocab_Trainer/
-- 🥟 **Siomai Cart Sarap — Simple Website** — inspired by small siomai stalls in the Philippines; clean, mobile-friendly menu.  
-  Live: https://siomaisarap2828.web.app/
+### 🔗 Connect
+🌐 [Portfolio](https://graceduquiza.github.io) • 💼 [LinkedIn](https://www.linkedin.com/in/grace-duquiza-olesen-9b3005137) • ✉️ [Email](mailto:duquizaolesen@gmail.com)
 
-> Dynamic work: **Sales Inventory App** (React + Express + PostgreSQL). Deployment paused while I harden auth, input validation, rate-limiting, and tests; runs locally during refinement.
+---
 
-# 🧠 Online Python Tutor — Python 3.12 Compatible Fork
+## 🚀 Projects
 
-This fork updates the classic **Online Python Tutor** project for modern Python versions and removes deprecated or unsafe code.
+### 🧩 [Sudoku Learn](https://graceduquiza.github.io/SudokuGame/)
+🕹️ A mobile-friendly Sudoku game built with **Vanilla JS** — includes hints, undo/redo, and a timer.
 
-## 🔧 What's New
-- ✅ Python 3.12 compatibility (`importlib` instead of deprecated `imp`)
-- ✅ Fixed regex escape warnings (using raw strings)
-- ✅ Added redirect from `/` → `/visualize.html`
-- ✅ Removed exposed Google API keys
-- ✅ Tested on Windows 10 with Python 3.12 (Bottle server runs fine)
+### 🇩🇰 [Danish Vocab Trainer](https://graceduquiza.github.io/Danish_Vocab_Trainer/)
+📘 Flashcards + quizzes for Danish learners — simple and fun interface.
 
-## 💡 About
-Originally developed by **Philip Guo** and maintained at [sineagles/OnlinePythonTutor](https://github.com/sineagles/OnlinePythonTutor).  
-This fork is maintained by [Grace Duquiza](https://github.com/GraceDuquiza).
+### 🥟 [Siomai Cart Sarap](https://siomaisarap2828.web.app/)
+🍱 A clean, responsive menu site inspired by Filipino street food stalls.  
 
-## 🚀 Run Locally
-```bash
-python bottle_server.py
+> ⚙️ Dynamic Work: **Sales Inventory App** (React + Express + PostgreSQL) — backend under security refinement.
 
-## 🖥️ Preview
+---
+## 🧠 Online Python Tutor (Python 3.12 Fork)
+
+🔧 Updated classic **Online Python Tutor** for **Python 3.12** with security and compatibility fixes.  
+✅ Replaced deprecated `imp` with `importlib`  
+✅ Fixed regex warnings  
+✅ Removed exposed API keys  
+
+### 🖼️ Example Output
 
 <p align="center">
-  <img src="pythontutor example.png" alt="Online Python Tutor Screenshot" width="700"/>
+  <img src="pythontutor.png" 
+       alt="Online Python Tutor Screenshot" 
+       width="500"/> 
+  <br/>
+  <em>Figure 1. Example of a generated Online Python Tutor screenshot.</em>
+</p> 
+
+---
+
+## 📂 Folder Tree Viewer
+
+🎯 Visualizes any folder structure as a **Mermaid.js diagram** using **Flask**.  
+💡 Ideal for developers and students to understand project architecture quickly.
+
+✅ Choose layout (TD / LR / BT / RL)  
+✅ Zoom & Download as `.svg`  
+✅ Excludes heavy directories (`node_modules`, `.venv`, `__pycache__`, etc.)
+
+### 🖼️ Example Output
+
+<p align="center">
+  <img src="foldertree.svg" 
+       alt="Folder Tree View" 
+       width="200">
+  <br/>
+  <em>Figure 1. Example of a generated folder tree diagram</em>
 </p>
 
-*Figure: Online Python Tutor (Python 3.12 version) running locally on Windows 10*
+## ⚙️ Tech Stack
 
----
+🧩 **Languages:**  
+Python · Java · C++ · JavaScript · SQL · HTML · CSS  
 
-### ⚙️ Skills
-- **Programming:** Python, Java, C++, JavaScript, SQL, HTML/CSS  
-- **Web/Backend:** React, Vite, Tailwind, Node.js, Express, Prisma, PostgreSQL  
-- **Data/ML:** NumPy, Pandas, Matplotlib, scikit-learn (intro level)
+⚛️ **Frameworks & Libraries:**  
+React · Vue.js · Node.js · Express.js · Flask · Django · Prisma ORM · Tailwind CSS  
 
-### 🌍 Languages
-English (fluent), **Filipino/Tagalog** (fluent), Danish (limited professional)
+🗄️ **Databases:**  
+PostgreSQL · Oracle SQL  
 
-### 📚 Currently
-Learning Django & backend practices · Studying Danish at AOF/FVU · Working part-time at Scandic Hotel Aarhus City (flexible around studies)
+🧰 **Tools:**  
+Git · GitHub · VS Code · Docker · Render · Firebase · Railway · PlantUML · Mermaid.js · Draw.io · PowerShell  
 
----
+🤖 **AI / ML:**  
+TensorFlow · TensorFlow.js · NumPy · scikit-learn · CUDA *(learning stage)*
+
+
+🌍 Languages
+
+English 🇬🇧 | Filipino 🇵🇭 | Danish 🇩🇰 (learning)
 
 Thanks for visiting! 🙌
-<!--
-**GraceDuquiza/GraceDuquiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always exploring, building, and learning.
