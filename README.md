@@ -26,7 +26,7 @@ After 8+ years in sales and customer service (PH • UAE • DK • NO), I’m t
 ---
 ## 🧠 Online Python Tutor (Python 3.12 Fork)
 
-🔧 Updated classic **Online Python Tutor** for **Python 3.12** with security and compatibility fixes.  
+🔧 Updated classic **Online Python Tutor** for **Python 3.13.7** with security and compatibility fixes.  
 ✅ Replaced deprecated `imp` with `importlib`  
 ✅ Fixed regex warnings  
 ✅ Removed exposed API keys  
