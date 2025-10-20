@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Grace Duquiza
+# 👋 Hi, I'm Grace Duquiza Olesen
 
 💻 **Computer Science Student (AMAOEd)** — based in **Aarhus, Denmark**.  
 After 8+ years in sales and customer service (PH • UAE • DK • NO), I’m transitioning into tech, focusing on **software development** and **AI-powered applications**.
