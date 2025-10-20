@@ -24,9 +24,9 @@ After 8+ years in sales and customer service (PH • UAE • DK • NO), I’m t
 > ⚙️ Dynamic Work: **Sales Inventory App** (React + Express + PostgreSQL) — backend under security refinement.
 
 ---
-## 🧠 Online Python Tutor (Python 3.12 Fork)
+## 🧠 Online Python Tutor (Python 3.14.0 Fork)
 
-🔧 Updated classic **Online Python Tutor** for **Python 3.13.7** with security and compatibility fixes.  
+🔧 Updated classic **Online Python Tutor** for **Python 3.14.0** with security and compatibility fixes.  
 ✅ Replaced deprecated `imp` with `importlib`  
 ✅ Fixed regex warnings  
 ✅ Removed exposed API keys  
