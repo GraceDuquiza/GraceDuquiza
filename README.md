@@ -20,7 +20,7 @@ I develop web and mobile applications, design REST APIs, work with relational da
 ### Nutri-Tsek — Food Nutrition Evaluation Application
 
 **Full-stack web and Android application | Computer Science thesis project**  
-[Nutri-Tsek](https://nutritsek.duquizaolesen.com/)
+### [Nutri-Tsek](https://nutritsek.duquizaolesen.com/)
 
 Nutri-Tsek helps consumers explore and compare the nutritional information of packaged food products through barcode scanning and product search. It presents multiple food evaluation indicators in one interface.
 
