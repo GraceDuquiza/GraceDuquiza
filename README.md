@@ -1,88 +1,154 @@
-# 👋 Hi, I'm Grace Duquiza Olesen
+# Hi, I'm Grace Duquiza Olesen
 
-💻 **Computer Science Student (AMAOEd)** — based in **Aarhus, Denmark**.  
-After 8+ years in sales and customer service (PH • UAE • DK • NO), I’m transitioning into tech, focusing on **software development** and **AI-powered applications**.
+**Computer Science | Software Engineering | Data Engineering**  
+Aarhus, Denmark
+
+I'm a final-year Bachelor of Science in Computer Science student at AMA University Online Education, focusing on full-stack development, software engineering, and data science.
+
+I develop web and mobile applications, design REST APIs, work with relational databases, and deploy applications to cloud platforms. Before transitioning into technology, I built a background in sales, customer service, and hospitality across the Philippines, UAE, Denmark, and Norway. That experience continues to shape how I approach problem-solving and user-focused software.
+
+**Career interests:** Software Engineering | Backend Development | Full-Stack Development | Data Engineering
+
+### Connect
+
+[Portfolio](https://graceduquiza.github.io/) | [LinkedIn](https://www.linkedin.com/in/graceduquizaolesen) | [Email](mailto:duquizaolesen@gmail.com)
+
+---
+
+## Featured Project
+
+### Nutri-Tsek — Food Nutrition Evaluation Application
+
+**Full-stack web and Android application | Computer Science thesis project**  
+[Nutri-Tsek](https://nutritsek.duquizaolesen.com/)
+
+Nutri-Tsek helps consumers explore and compare the nutritional information of packaged food products through barcode scanning and product search. It presents multiple food evaluation indicators in one interface.
+
+**Key features**
+
+- Nutri-Score nutritional evaluation (A–E)
+- NOVA food-processing classification
+- Nordic Keyhole (Nøglehullet) assessment
+- Nutritional traffic-light indicators
+- Category-aware product comparison and product alternatives
+- Nutrition goals, consumption tracking, and dashboard summaries
+- English and Danish interface
+- Guest access and authenticated features
+
+**Technology stack:** Next.js, React, TypeScript, Tailwind CSS, ASP.NET Core (.NET 10), C#, PostgreSQL, Supabase, Redis, Azure, Vercel, Capacitor, Android, and ML Kit.
+
+The project covers requirements analysis, system design, API development, database integration, authentication, testing, deployment, and ongoing improvements.
 
 ---
 
-### 🔗 Connect
-🌐 [Portfolio](https://graceduquiza.github.io) • 💼 [LinkedIn](https://www.linkedin.com/in/grace-duquiza-olesen-9b3005137) • ✉️ [Email](mailto:duquizaolesen@gmail.com)
+## Other Projects
 
----
+### [Danish Vocabulary Trainer](https://graceduquiza.github.io/Danish_Vocab_Trainer/)
 
-## 🚀 Projects
+An interactive language-learning application with vocabulary flashcards, quizzes and grammar review for Danish learners.
 
-### 🧩 [Sudoku Learn](https://graceduquiza.github.io/SudokuGame/)
-🕹️ A mobile-friendly Sudoku game built with **Vanilla JS** — includes hints, undo/redo, and a timer.
+**Tech:** JavaScript, HTML, CSS
 
-### 🇩🇰 [Danish Vocab Trainer](https://graceduquiza.github.io/Danish_Vocab_Trainer/)
-📘 Flashcards + quizzes for Danish learners — simple and fun interface.
+### [Sudoku Learn](https://graceduquiza.github.io/SudokuGame/)
 
-### 🥟 [Siomai Cart Sarap](https://siomaisarap2828.web.app/)
-🍱 A clean, responsive menu site inspired by Filipino street food stalls.  
+A responsive Sudoku game featuring hints, undo/redo, a timer, and multiple difficulty levels.
 
-> ⚙️ Dynamic Work: **Sales Inventory App** (React + Express + PostgreSQL) — backend under security refinement.
+**Tech:** Vanilla JavaScript, HTML, CSS
 
----
-## 🧠 Online Python Tutor (Python 3.14.0 Fork)
+### Online Python Tutor — Python 3.14 Fork
 
-🔧 Updated classic **Online Python Tutor** for **Python 3.14.0** with security and compatibility fixes.  
-✅ Replaced deprecated `imp` with `importlib`  
-✅ Fixed regex warnings  
-✅ Removed exposed API keys  
+Modernized an existing open-source Python code visualization project for compatibility with Python 3.14.
 
-### 🖼️ Example Output
+**Contributions**
+
+- Replaced deprecated `imp` functionality with `importlib`
+- Resolved regular-expression warnings
+- Removed exposed API keys
+- Improved compatibility with newer Python versions
+
+**Example output**
 
 <p align="center">
-  <img src="pythontutor.png" 
-       alt="Online Python Tutor Screenshot" 
-       width="500"/> 
-  <br/>
-  <em>Figure 1. Example of a generated Online Python Tutor screenshot.</em>
-</p> 
-
----
-
-## 📂 Folder Tree Viewer
-
-🎯 Visualizes any folder structure as a **Mermaid.js diagram** using **Flask**.  
-💡 Ideal for developers and students to understand project architecture quickly.
-
-✅ Choose layout (TD / LR / BT / RL)  
-✅ Zoom & Download as `.svg`  
-✅ Excludes heavy directories (`node_modules`, `.venv`, `__pycache__`, etc.)
-
-### 🖼️ Example Output
-
-<p align="center">
-  <img src="foldertree.svg" 
-       alt="Folder Tree View" 
-       width="200">
-  <br/>
-  <em>Figure 1. Example of a generated folder tree diagram</em>
+  <img src="pythontutor.png" alt="Online Python Tutor code visualization screenshot" width="500" />
+  <br />
+  <em>Figure 1. Example of code execution visualization in Online Python Tutor.</em>
 </p>
 
-## ⚙️ Tech Stack
+### Folder Tree Viewer
 
-🧩 **Languages:**  
-Python · Java · C++ · JavaScript · SQL · HTML · CSS  
+A Flask-based utility that visualizes directory structures as Mermaid.js diagrams, making project architecture easier to inspect and explain.
 
-⚛️ **Frameworks & Libraries:**  
-React · Vue.js · Node.js · Express.js · Flask · Django · Prisma ORM · Tailwind CSS  
+**Features**
 
-🗄️ **Databases:**  
-PostgreSQL · Oracle SQL  
+- Supports TD, LR, BT, and RL layouts
+- Includes zoom controls and SVG export
+- Excludes directories such as `node_modules`, `.venv`, and `__pycache__`
 
-🧰 **Tools:**  
-Git · GitHub · VS Code · Docker · Render · Firebase · Railway · PlantUML · Mermaid.js · Draw.io · PowerShell  
+**Tech:** Python, Flask, JavaScript, Mermaid.js
 
-🤖 **AI / ML:**  
-TensorFlow · TensorFlow.js · NumPy · scikit-learn · CUDA *(learning stage)*
+**Example output**
 
+<p align="center">
+  <img src="foldertree.svg" alt="Folder Tree Viewer Mermaid diagram" width="300" />
+  <br />
+  <em>Figure 2. Example of a folder structure diagram generated by Folder Tree Viewer.</em>
+</p>
 
-🌍 Languages
+### [Siomai Cart Sarap](https://siomaisarap2828.web.app/)
 
-English 🇬🇧 | Filipino 🇵🇭 | Danish 🇩🇰 (learning)
+A responsive menu website for a Filipino food business, built to present products and business information clearly.
 
-Thanks for visiting! 🙌
-Always exploring, building, and learning.
+**Tech:** HTML, CSS, JavaScript, Firebase
+
+**Additional work in progress:** Sales Inventory App using React, Express.js, and PostgreSQL; backend security refinement ongoing.
+
+---
+
+## Research and Data Analysis
+
+### Data Analyst Intern — Nightingale Project
+
+**Johannes Gutenberg University Mainz | April–July 2025**
+
+Worked with UK Biobank research data using Python for data preparation, statistical analysis, and visualization.
+
+- Data cleaning, exploration, and analysis
+- Correlation and regression analysis
+- Scientific plots and documentation
+
+**Tools:** Python, Pandas, NumPy, SciPy, Matplotlib, Jupyter Notebook
+
+**Peer-reviewed publication:** [Research article — DOI: 10.21698/rjeec.2025.210](https://doi.org/10.21698/rjeec.2025.210)
+
+---
+
+## Technical Skills
+
+| Category | Technologies |
+| --- | --- |
+| Programming | C#, Python, TypeScript, JavaScript, Java, C++, SQL |
+| Frontend | React, Next.js, HTML, CSS, Tailwind CSS |
+| Backend and APIs | ASP.NET Core, .NET, Node.js, Express.js, Flask, REST APIs |
+| Databases | PostgreSQL, Supabase, SQLite, Oracle SQL |
+| Data Analysis | Pandas, NumPy, SciPy, Matplotlib, Jupyter Notebook |
+| Mobile | Capacitor, Android, ML Kit |
+| Cloud and Deployment | Microsoft Azure, Vercel, Firebase, Railway, Render |
+| Development Tools | Git, GitHub, Docker, Redis, Visual Studio, VS Code, PowerShell |
+| Diagrams and Documentation | Mermaid.js, PlantUML, Draw.io |
+
+**Additional interests:** Applied machine learning, AI-assisted development, and data-driven applications.
+
+---
+
+## Languages
+
+- Hiligaynon — Native
+- Filipino — Fluent
+- English — Fluent
+- Danish — PD3 certified; continuing to improve
+
+---
+
+I enjoy building practical software, learning new technologies, and improving applications through feedback and testing.
+
+**Always learning, building, and improving.**
